@@ -1,5 +1,10 @@
-streamlit>=1.41,<2.0
-openai>=1.60,<3.0
-SQLAlchemy>=2.0,<3.0
-psycopg[binary]>=3.2,<4.0
-requests>=2.32,<3.0
+streamlit
+openai
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
+python-dotenv
+apscheduler
+requests
+pandas
+streamlit-autorefresh
