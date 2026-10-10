@@ -1,0 +1,1 @@
+"""MARKHOR AI application package."""
